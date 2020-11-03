@@ -13,6 +13,7 @@ function generatepassword() {
    alert(passwordLength);
 
    alert("Please choose in the following prompts what features you would like on your password");
+   alert:
   
 } //Function closed bracket
 
